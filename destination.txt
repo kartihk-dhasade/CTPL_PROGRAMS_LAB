@@ -1,0 +1,5 @@
+***write the python program to copy the contents source.txt file into destination.txt***
+
+hello world ;
+
+copying this to the destination file 
